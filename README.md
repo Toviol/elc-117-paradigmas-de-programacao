@@ -65,4 +65,3 @@ Tobias Viero
 
 ---
 
-Este repositório será atualizado conforme novos trabalhos forem desenvolvidos ou modificados.
